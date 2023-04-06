@@ -7,7 +7,7 @@ const Filter = () => {
         <div className={styles.filter}>
             <img src={filterLogo} alt="filter" className={styles['filter-logo']} />
             <p className={styles['filter-title']}>Filtra</p>
-            <p className={styles['paragraph-one']}>Tariffa oraira</p>
+            <p className={styles['paragraph-one']}>Tariffa oraria</p>
             <input type="range" className={styles['range']} />
             <p className={styles['paragraph-two']}>Luogo lezione</p>
             <div className={styles.checkbox}>

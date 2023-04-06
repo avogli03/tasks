@@ -15,7 +15,7 @@ const Contact = () => {
             </div>
             <div className={styles.card}>
                 <h2 className={styles['title']}>Giovanni C.</h2>
-                <p className={styles['info']}>Insegnante di <span className={styles['blue']}>Matematica</span>, Aiuto tesi, Contabilita e bilancio, <br />Controllo di gestione</p>
+                <p className={styles['info']}>Insegnante di <span className={styles['blue']}>Matematica</span>, Aiuto tesi, Contabilità e bilancio, <br />Controllo di gestione</p>
             </div>
             <div className={styles.labels}>
                 <label>Lezioni accettate</label>

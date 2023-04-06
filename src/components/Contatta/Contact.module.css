@@ -1,10 +1,12 @@
 .contact {
     width: 900px;
-    height: 280px;
+    height: 320px;
     background-color: white;
     margin-left: 28%;
     margin-top: -19%;
     border-radius: 5px;
+    display: flex;
+    flex-direction: column;
 }
 
 .picture-text {
@@ -39,11 +41,12 @@
 }
 
 .card {
-    margin-left: 22%;
+    margin-left: 20%;
     margin-top: -3%;
 }
 
 .title {
+    margin-left: 2.5%;
     font-size: x-large;
 }
 
@@ -174,15 +177,11 @@
 
 .info {
     width: 650px;
+    margin-top: -1%;
     margin-left: 2.5%;
+    color: gray;
 }
 
 .info span {
     color: #167cad;
-}
-
-@media (min-width: 768px) {
-    .contact {
-        position: absolute;
-    }
 }
