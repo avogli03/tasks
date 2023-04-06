@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    align-items: center;
+    padding: 40px 50px;
+    column-gap: 1.2rem;
+    margin-left: 4%;
+}
+
+button {
+    width: 170px;
+    height: 30px;
+    font-weight: bold;
+    margin-bottom: 3%;
+    border-radius: 5px;
+    border: 0;
+    cursor: pointer;
+}
+
+.home-icon {
+    cursor: pointer;
+}

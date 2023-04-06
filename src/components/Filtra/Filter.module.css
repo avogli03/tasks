@@ -1,0 +1,44 @@
+.filter {
+    width: 250px;
+    height: 280px;
+    background-color: white;
+    margin-left: 8%;
+    margin-top: -1%;
+    border-radius: 5px;
+}
+
+.filter-logo {
+    width: 30px;
+    height: 30px;
+    margin-left: 35%;
+    margin-top: 6%;
+}
+
+.filter-title {
+    font-size: 1.25rem;
+    margin-left: 50%;
+    margin-top: -14%;
+}
+
+.paragraph-one {
+    margin-left: 35%;
+    margin-top: -3%;
+}
+
+.range {
+    margin-left: 10%;
+    width: 200px;
+}
+
+.paragraph-two {
+    margin-left: 30%;
+}
+
+.checkbox {
+    margin-top: 8%;
+    margin-left: 5%;
+}
+
+.checkbox span {
+    margin-left: 4%;
+}
